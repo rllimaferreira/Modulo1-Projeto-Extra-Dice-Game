@@ -1,4 +1,4 @@
-# Modulo1-Projeto-Extra-Jogo-Dado
+# Modulo1-Projeto-Extra-Dice-Game
 
 Projeto extra da formação full stack da Blue Edtech.
 

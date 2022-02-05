@@ -1,4 +1,4 @@
-# Modulo1-Projeto-Extra-Dice-Game
+# Modulo1-Projeto-Extra-Dice-Game <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100" style="max-width: 100%;">
 
 Projeto extra da formação full stack da Blue Edtech (módulo 1).
 

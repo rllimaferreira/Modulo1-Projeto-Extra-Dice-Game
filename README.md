@@ -1,6 +1,6 @@
 # Modulo1-Projeto-Extra-Dice-Game
 
-Projeto extra da formação full stack da Blue Edtech.
+Projeto extra da formação full stack da Blue Edtech (módulo 1).
 
 
 REQUISITOS:
